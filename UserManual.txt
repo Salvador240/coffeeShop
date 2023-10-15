@@ -1,0 +1,5 @@
+Program to serve coffee at a coffee shop.
+The customer comes in, asks for a type of coffee, the barister makes the selection, asks the customer for his name, enters the name in the entry box, then clicks or taps on a button.
+The PayBill button calculates the total due and prints a capture of the transaction on the second window
+The SaveBill button saves the transaction in a file in the same folder
+The NewBill button erases the current transaction, allowing for the barrister to take a new order from a customer. 
